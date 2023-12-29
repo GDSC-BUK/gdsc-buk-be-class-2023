@@ -60,3 +60,8 @@ while (numberOfStudents >= 1) {
 
     numberOfStudents--
 }
+
+// Generate multiplication table 2
+for (i = 1; i <= 12; i++) {
+    console.log(2 + " X " + i + " = " + (2 * i))
+}
